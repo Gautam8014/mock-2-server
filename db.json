@@ -1,0 +1,41 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyZDSZchyHCbIGGS9u-dnpN4WS8HyP4E6VeRtsUgis1H5ih4t1HuWJ837uEvZ2Vvqxre4&usqp=CAU",
+        "name": "Product 1",
+        "description": "Product 1 description",
+        "gender": "Male",
+        "category": "Shirts",
+        "price": 1599
+      },
+      {
+        "id": 2,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbTUNfD7-6ogwakijuQS6xKwqQdlVtZdy4EQ&usqp=CAU",
+        "name": "Product 2",
+        "description": "Product 2 description",
+        "gender": "Female",
+        "category": "Saree",
+        "price": 4999
+      },
+      {
+        "id": 3,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEZ6SBCmVKsKZr08Z9wP0ZHr31rTgqwPYofQ&usqp=CAU",
+        "name": "Product 3",
+        "description": "Product 3 description",
+        "gender": "Male",
+        "category": "Jeans",
+        "price": 1999
+      },
+      {
+        "id": 4,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkc5JrGBAsE79vF8leC3RoZk55F2FJQTnToQ&usqp=CAU",
+        "name": "Product 4",
+        "description": "Product 4 description",
+        "gender": "Female",
+        "category": "Kurti",
+        "price": 999
+      }
+    ]
+  }
+  
